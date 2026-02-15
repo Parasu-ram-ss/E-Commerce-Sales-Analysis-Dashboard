@@ -25,5 +25,21 @@ The dataset includes order details, customer information, product categories, sa
 •	Evaluate profitability and discount impact
 
 
-<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ecommerce_data.csv"> dataset </a>
+<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Project_Documentation.docx"> Project Overview </a>
+
+
+# Data Transformation Process
+
+•	Improve sales monitoring and reporting
+
+•	Identify top-performing products
+
+•	Optimize discount strategies
+
+•	Increase profitability
+
+•	Support data-driven decision-making
+
+<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Project_Documentation.docx"> Business Requirements </a>
+
 
