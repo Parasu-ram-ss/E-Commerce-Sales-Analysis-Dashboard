@@ -53,7 +53,17 @@ Customer & Regional Analysis – Sales distribution and customer insights.
 
 Profit & Discount Analysis – Profit trends and discount impact.
 
-<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Business_Requirements_Document.docx"> PowerBI File </a>
+<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/E-Commerce%20File.pbix"> PowerBI File </a>
+
+
+# Business Insights
+
+Reduced reporting time, improved visibility of sales trends, increased profitability, and better strategic planning.
+
+# Conclusion
+
+The dashboard provides a comprehensive view of sales performance, helping management make informed strategic decisions.
+
 
 
 
